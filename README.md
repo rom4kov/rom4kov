@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Roman, a Web Developer specialized in frontend development. I have 2,5 years of coding experience.
+I'm Roman, a Web Developer specializing in frontend development. I have 2,5 years of coding experience.
 
 Javascript is my preferred programming language, but I'm also learning Python and PHP at the moment.
 
