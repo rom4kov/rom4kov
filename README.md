@@ -3,8 +3,6 @@
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
-
-
 ### Hi there 👋
 
 I'm Roman, a Web Developer specialized in frontend development. I have 2,5 years of coding experience.
