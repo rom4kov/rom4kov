@@ -9,7 +9,7 @@
 
 I'm Roman, a Web Developer specialized in frontend development. I have 2,5 years of coding experience.
 
-JavaScript is my preferred programming languages, but I'm learning Python and PHP, too, at the moment.
+Javascript is my preferred programming languages, but I'm learning Python and PHP, too, at the moment.
 
 ## Skills & Expertise
 
