@@ -12,6 +12,10 @@ Technologies & Frameworks: Bootstrap, Node.js, Express.js, MongoDB, React, Redux
 
 Version Control: Git
 
+#### Interests
+
+Linux and Cybersecurity
+
 Thank you for visiting my profile!
 
 <!--
