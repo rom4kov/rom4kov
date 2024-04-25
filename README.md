@@ -14,7 +14,9 @@ Javascript is my preferred programming languages, but I'm also learning Python a
 ## Skills & Expertise
 
 Languages: HTML, CSS, Javascript, Typescript
-Technologies & Frameworks: Bootstrap, Node.js, Express.js, MongoDB, React, Redux
+
+Technologies & Frameworks: Bootstrap, Node.js, Express.js, MongoDB, React, Redux, GraphQL, GatsbyJS
+
 Version Control: Git
 
 Thank you for visiting my profile!
