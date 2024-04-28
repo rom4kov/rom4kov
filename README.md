@@ -8,7 +8,7 @@ Javascript is my preferred programming language, but I'm also learning Python an
 
 Languages: HTML, CSS, Javascript, Typescript
 
-Technologies & Frameworks: Bootstrap, Node.js, Express.js, MongoDB, React, Redux, GraphQL, GatsbyJS
+Technologies & Frameworks: Bootstrap, Node.js, Express.js, MongoDB, EJS, React, Redux, GraphQL, GatsbyJS
 
 Version Control: Git
 
